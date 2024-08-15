@@ -140,6 +140,8 @@ const SortDevice = () => {
   `
   main.innerHTML += Form
 }
+//const AddButton = document.getElementsByClassName("AddButton")
+//AddButton.addEventListener("click", SortDevice)
 
 
 function SearchPhones() {
